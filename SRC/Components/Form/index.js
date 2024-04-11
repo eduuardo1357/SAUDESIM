@@ -9,6 +9,7 @@ export default function Form(){
            placeholder="Ex. 1.75"
            keyboardType="numeric"
            />
+           <Text>Peso</Text>
            <TextInput
            placeholder="Ex. 71.5"
            keyboardType="numeric"
